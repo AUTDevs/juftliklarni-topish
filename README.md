@@ -1,6 +1,4 @@
-# Build a Memory Game With Vue
-
-In this tutorial, we’ll explore one of the unlikely areas where Vue can be used successfully: game development.
+# Memory Game With Vue - Juftliklarni Topish
 
 ## Requirements
 
