@@ -1,14 +1,19 @@
 <template>
   <v-app dark>
+  
     <v-container>
       <v-layout class="font-weight-bold display-3 purple--text" justify-center mb-4>Juftliklarni-Topish</v-layout>
+      
       <v-layout mb-4>
         <timer :progress="progress" :time="time"></timer>
         <status-bar :turns="turns" :matches="matches"></status-bar>
       </v-layout>
+      
       <cards-board :cards="cards" @flipcard="flipCard"></cards-board>
     </v-container>
+    
     <splash :showSplash="showSplash" :result="result" :score="score" @resetgame="resetGame"></splash>
+    
   </v-app>
 </template>
 
