@@ -1,24 +1,20 @@
-# juftliklarni-topish
+# Build a Memory Game With Vue
 
-## Project setup
-```
-npm install
-```
+In this tutorial, we’ll explore one of the unlikely areas where Vue can be used successfully: game development.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Requirements
 
-### Compiles and minifies for production
-```
-npm run build
-```
+* [Node.js](http://nodejs.org/)
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Installation Steps (if applicable)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. Clone repo
+2. Run `npm install`
+3. Run `npm run serve`
+4. Visit http://localhost:8080/
+
+## License
+
+SitePoint's code archives and code examples are licensed under the MIT license.
+
+Copyright © 2019 SitePoint
